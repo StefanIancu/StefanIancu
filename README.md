@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StefanIancu
-- 👀 I’m interested in everything IT or Tech related.
-- 🌱 I’m currently learning Python. 
+- 👀 I’m interested in DevOps practices.
+- 🌱 I’m currently expanding my DevOps knowledge while jogging around with containers and clusters.
 - 💞️ I’m looking forward to posting new projects. 
 - 📫 You can reach me on my LinkedIn or Twitter page.
 
