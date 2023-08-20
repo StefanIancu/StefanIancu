@@ -2,9 +2,9 @@
 - 👀 Very passionate about automation and building things 🤖
 - 🌱 I’m currently expanding my DevOps knowledge 📖
 - 🛠️ Stack:
-  > Python, SQL
-  > Docker, DockerHub, Kubernetes
-  > AWS EC2 and S3
+  > Python, SQL,
+  > Docker, DockerHub, Kubernetes,
+  > AWS EC2 and S3,
   > Terraform 
 - 💞️ I’m looking forward to posting new projects. 
 - 📫 You can reach me on my LinkedIn or Twitter page.
