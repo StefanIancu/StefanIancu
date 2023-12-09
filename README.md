@@ -4,7 +4,7 @@
 - 🛠️ Stack:
   > Python, SQL,
   > Docker, DockerHub, Kubernetes,
-  > AWS EC2 and S3,
+  > AWS,
   > Terraform 
 - 💞️ I’m looking forward to posting new projects. 
 - 📫 You can reach me on my LinkedIn or Twitter page.
